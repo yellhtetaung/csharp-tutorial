@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>MyFirstProject.ConditionalOperator</StartupObject>
+    <StartupObject>MyFirstProject.NumericFormatting</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
