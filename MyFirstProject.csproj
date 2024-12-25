@@ -55,6 +55,7 @@
     <Compile Include="InputAndOutput.cs" />
     <Compile Include="NumericDataTypes.cs" />
     <Compile Include="Exercises\OddAndEvenChecker.cs" />
+    <Compile Include="NumericFormatting.cs" />
     <Compile Include="Operators.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
